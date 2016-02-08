@@ -41,10 +41,10 @@
     "select2": "^3.5.0",
     "tablesorter": "*",
     "tag-it": "git+https://github.com/stefk/tag-it.git",
-    "tinymce-codemirror": "git+https://github.com/stefk/tinymce-codemirror.git",
+    "tinymce-codemirror": "git+https://github.com/christiaan/tinymce-codemirror.git",
     "toastr": "^2.1.2",
     "typeahead.js": "^0.11.1",
-    "typeahead.js-bootstrap3.less": "git+https://github.com/stefk/typeahead.js-bootstrap3.less.git",
+    "typeahead.js-bootstrap3.less": "git+https://github.com/hyspace/typeahead.js-bootstrap3.less.git",
     "underscore": "^1.8.3"
   }
 }

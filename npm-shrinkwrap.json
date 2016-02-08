@@ -18,7 +18,7 @@
       "resolved": "https://registry.npmjs.org/angular/-/angular-1.5.0.tgz"
     },
     "angular-breadcrumb": {
-      "version": "0.4.0",
+      "version": "0.4.1",
       "from": "angular-breadcrumb@>=0.4.0 <0.5.0",
       "resolved": "https://registry.npmjs.org/angular-breadcrumb/-/angular-breadcrumb-0.4.1.tgz"
     },
@@ -63,9 +63,9 @@
       "resolved": "git+https://github.com/stefk/angular-ui-translation.git#70944d705936e68efbb3f2c7d79d9d624afd210d"
     },
     "angular-ui-tree": {
-      "version": "2.14.0",
-      "from": "angular-ui-tree@>=2.13.0 <3.0.0",
-      "resolved": "https://registry.npmjs.org/angular-ui-tree/-/angular-ui-tree-2.14.0.tgz"
+      "version": "2.15.0",
+      "from": "angular-ui-tree@2.15.0",
+      "resolved": "https://registry.npmjs.org/angular-ui-tree/-/angular-ui-tree-2.15.0.tgz"
     },
     "argparse": {
       "version": "0.1.16",
@@ -470,8 +470,8 @@
     },
     "tinymce-codemirror": {
       "version": "1.0.0",
-      "from": "git+https://github.com/stefk/tinymce-codemirror.git",
-      "resolved": "git+https://github.com/stefk/tinymce-codemirror.git#835e1d14ed49cf25fdcef16ff22025ea182492b8"
+      "from": "git+https://github.com/christiaan/tinymce-codemirror.git",
+      "resolved": "git+https://github.com/christiaan/tinymce-codemirror.git#20c1bbe7085d74ece681e960135d5cc368cd3937"
     },
     "toastr": {
       "version": "2.1.2",
@@ -484,9 +484,9 @@
       "resolved": "https://registry.npmjs.org/typeahead.js/-/typeahead.js-0.11.1.tgz"
     },
     "typeahead.js-bootstrap3.less": {
-      "version": "0.2.3",
-      "from": "git+https://github.com/stefk/typeahead.js-bootstrap3.less.git",
-      "resolved": "git+https://github.com/stefk/typeahead.js-bootstrap3.less.git#afb11023da1c16205da16ef1d81652082646851f"
+      "version": "0.0.0",
+      "from": "git+https://github.com/hyspace/typeahead.js-bootstrap3.less.git",
+      "resolved": "git+https://github.com/hyspace/typeahead.js-bootstrap3.less.git#6b03952040b34eefc017b26bd4f355219d1aa5e3"
     },
     "uglify-js": {
       "version": "2.4.24",
