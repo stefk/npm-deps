@@ -23,7 +23,7 @@
     "claroline-tinymce-accordion": "https://github.com/stefk/tinymceAccordionPlugin.git",
     "claroline-tinymce-mention": "https://github.com/stefk/tinymceMentionPlugin.git",
     "confirm-bootstrap": "https://github.com/stefk/confirm-bootstrap.git",
-    "Datejs": "datejs/Datejs",
+    "Datejs": "https://github.com/datejs/Datejs.git",
     "eonasdan-bootstrap-datetimepicker": "^4.15.35",
     "fileapi": "^2.0.18",
     "fluidvids": "https://github.com/toddmotto/fluidvids.git",
