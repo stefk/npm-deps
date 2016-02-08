@@ -30,7 +30,7 @@
     "font-awesome": "~4.5.0",
     "fullcalendar": "^2.4.0",
     "gridstack": "^0.2.3",
-    "jqPlot": "jqPlot/jqPlot",
+    "jqPlot": " https://github.com/jqPlot/jqPlot.git",
     "jquery": "^2.2.0",
     "jquery-option-tree": "https://github.com/stefk/jquery-option-tree.git",
     "jquery-sortable": "^0.9.13",
